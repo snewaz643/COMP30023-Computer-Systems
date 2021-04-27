@@ -1,0 +1,1 @@
+Implemented an algorithm that gives priority to the heavy-sized (execution time) processes and heads towards relatively lighter processes.It had the best performance with multiprocessors giving around 20% improvement with 4 processors and around 13.7% for 2 processors for both p and n processes. No improvement for single processors.
